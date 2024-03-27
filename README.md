@@ -44,7 +44,7 @@ $ git commit
 
 # ![git-add](imges/05.png)
 
-# ![git-commit](imges/07.png)
+# ![git-commit](imges/06.png)
 
 Our local repository files are commited and now its time to push into remote repository
 
@@ -59,7 +59,21 @@ To push your code to remote repository, first you have to create the empty repos
  # ![git-local](imges/10.png)
 
  # ![git-local](imges/11.png)
- 
+
+
+### Step 05 - Push Local Repo to Remote Repo
+
+Now its time to push your local repository to your remote repository means your Github account
+
+ # ![git-local](imges/12.png)
+
+ # ![git-local](imges/13.png)
+
+ # ![git-local](imges/14.png)
+
+ # ![git-local](imges/15.png)
+
+ # ![git-local](imges/16.png)
 THis is my repo files  and filders need to be pushed and updated
 
 
