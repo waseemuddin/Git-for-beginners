@@ -1,6 +1,8 @@
-# GIT Lab 01 For Begineers
+# GIT Lab 01 - How to Push Project folder to Remote Repository
 
-In this lab we will look at -How to pull our local repo to remote repository
+In this lab we will look at How to pull our local repo/prject to remote repository means github account
+
+# ![Github Diagram](imges/diagram.png)
 
 ### Step 01 - Make Directory/Folder on your local system windows or ubuntu
 
