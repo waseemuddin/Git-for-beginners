@@ -1,3 +1,6 @@
+[link text](https://shaikhwaseem.com){:target="_blank"}
+[link text](https://shaikhwaseem.com){:target="_blank"}
+
 # GIT Lab 01 - How to Push Project folder to Remote Repository
 
 In this lab we will look at How to pull our local repo/prject to remote repository means github account
@@ -72,6 +75,10 @@ Now its time to push your local repository to your remote repository means your 
  # ![git-local](imges/14.png)
 
  # ![git-local](imges/15.png)
+
+
+As you see all local repository files/folders are now push to remote repository
+
 
  # ![git-local](imges/16.png)
 THis is my repo files  and filders need to be pushed and updated
