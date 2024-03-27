@@ -16,7 +16,7 @@ In this lab we will look at -How to pull our local repo to remote repository
 
 ''' shell
 
-THis is my repo files  and filders need to be pushed
+THis is my repo files  and filders need to be pushed and updated
 
 
 
