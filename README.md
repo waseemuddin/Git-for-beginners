@@ -3,7 +3,7 @@
 In this lab we will look at How to pull our local repo/prject to remote repository means github account
 
 
-<img src="imges/diagram.png" alt="Github Diagram" width="500" height="300">
+<img src="imges/diagram.png" alt="Github Diagram" width="400" height="500">
 
 
 ### Step 01 - Make Directory/Folder on your local system windows or ubuntu
