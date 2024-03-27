@@ -19,12 +19,32 @@ $ git status
 
 ### Step 02 - create some files into the git local directory/folder
 
-''' shell
+``` shell
+$ mkdir imges 
+$ mkdir js
+$ mkdir css
+$ mkdir project 
+$ touch css/front.css
+$ touch js/mysim.js
+$ touch index.php
+```
 
 
 ### Step 03 - After editing and adding completed, run the below commands
 
-''' shell
+``` shell
+$ git init
+$ git status
+$ git add .
+$ git commit
+```
+# ![git-init](imges/03.png)
+
+# ![git-status](imges/04.png)
+
+# ![git-add](imges/05.png)
+
+# ![git-commit](imges/06.png)
 
 THis is my repo files  and filders need to be pushed and updated
 
