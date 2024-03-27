@@ -44,8 +44,22 @@ $ git commit
 
 # ![git-add](imges/05.png)
 
-# ![git-commit](imges/06.png)
+# ![git-commit](imges/07.png)
 
+Our local repository files are commited and now its time to push into remote repository
+
+# ![git-local](imges/07.png)
+
+To push your code to remote repository, first you have to create the empty reposity on your github account
+
+### Step 04 - Create Empty Repo on your Github Account
+ 
+ Got your github accunt profile and create new repository
+
+ # ![git-local](imges/10.png)
+
+ # ![git-local](imges/11.png)
+ 
 THis is my repo files  and filders need to be pushed and updated
 
 
