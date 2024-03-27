@@ -1,5 +1,9 @@
-[link text](https://shaikhwaseem.com){:target="_blank"}
-[link text](https://shaikhwaseem.com){:target="_blank"}
+
+Please follow the below links for more updates and Projects
+
+<a href="https://shaikhwaseem.com" target="_blank">shahikhwaseem.com</a>
+<a href="https://www.youtube.com/@waseeemuddin" target="_blank">Youtube Link</a>
+
 
 # GIT Lab 01 - How to Push Project folder to Remote Repository
 
