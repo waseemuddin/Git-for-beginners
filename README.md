@@ -86,7 +86,4 @@ As you see all local repository files/folders are now push to remote repository
 
 
  # ![git-local](imges/16.png)
-THis is my repo files  and filders need to be pushed and updated
-
-
 
