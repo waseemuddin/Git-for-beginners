@@ -5,15 +5,15 @@ In this lab we will look at How to pull our local repo/prject to remote reposito
 
 <img src="imges/diagram.png" alt="Github Diagram" width="500" height="500">
 
-<img src="imges/01.png" alt="Github Diagram" width="300" height="300">
+# ![git-status](imges/01.png)
 
 
 ### Step 01 - Make Directory/Folder on your local system windows or ubuntu
 
 ``` shell
-mkdir Git-for-begineers
-cd Git-for-begineers
-git status
+$ mkdir Git-for-begineers
+$ cd Git-for-begineers
+$ git status
 ```
 # ![git-status](imges/02.png)
 
