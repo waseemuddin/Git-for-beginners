@@ -6,7 +6,7 @@ Please follow the below links for more updates and Projects
 💾 <a href="https://www.youtube.com/@waseeemuddin" target="_blank">Youtube Link</a>
 
 
-# GIT Lab 02 - How to Create and Manager Branched on Git and Github account
+# GIT Lab 02 - How to Create and Manage Git branches
 
 In this lab we will look at How to pull our local repo/prject to remote repository means github account
 
