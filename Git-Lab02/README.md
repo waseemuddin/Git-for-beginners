@@ -8,82 +8,64 @@ Please follow the below links for more updates and Projects
 
 # GIT Lab 02 - How to Create and Manage Git Branches
 
-In this lab-02 we will look at the Git Brnach and how to create git branch
-Now let see
+In this lab-02 we will look at the Git Brnach and how to create git branch and manager branches
 
+Let's consider a real-world project example: building a website. Imagine you and your team are working on a website project, and you decide to use Git to manage your code.
+
+1- Main Branch (Master/Branch): Your main branch, often called "master" or "main", represents the stable version of your website that's ready to be published. It contains all the finished features and bug fixes.
+
+2- Creating a New Branch: Let's say you want to add a new feature to your website, like a contact form. You create a new branch called "contact-form".
+
+``` shell
+
+$ git checkout -b contact-form
+
+```
+3- Making Changes: On the "contact-form" branch, you work on adding the contact form feature to your website. You create HTML, CSS, and JavaScript files for the form.
+
+4- Committing Changes: Once you're done, you commit your changes to the "contact-form" branch.
+
+``` shell
+$ git add .
+$ git commit -m "Added contact form feature"
+
+```
+
+5- Switching Between Branches: Now, let's say your team needs you to fix a critical bug on the main website. You switch back to the main branch to address it.
+
+``` shell
+
+$ git checkout main
+
+```
+6- Making Changes: On the main branch, you fix the bug by editing the affected files.
+
+7- Committing Changes: After fixing the bug, you commit your changes to the main branch.
+
+``` shell
+
+$ git add .
+$ git commit -m "Fixed critical bug"
+
+
+```
 <img src="imges/diagram.png" alt="Github Diagram" width="500" height="500">
 
 # ![git-status](imges/01.png)
 
-
-### Step 01 - Make Directory/Folder on your local system windows or ubuntu
-
-``` shell
-$ mkdir Git-for-begineers
-$ cd Git-for-begineers
-$ git status
-```
-# ![git-status](imges/02.png)
-
-### Step 02 - create some files into the git local directory/folder
+8- Merging Branches: Once the bug is fixed and the contact form feature is complete, you merge the "contact-form" branch into the main branch.
 
 ``` shell
-$ mkdir imges 
-$ mkdir js
-$ mkdir css
-$ mkdir project 
-$ touch css/front.css
-$ touch js/mysim.js
-$ touch index.php
+
+$ git checkout main
+$ git merge contact-form
+
 ```
-
-
-### Step 03 - After editing and adding completed, run the below commands
+9- Deleting a Branch: After merging, you can delete the "contact-form" branch.
 
 ``` shell
-$ git init
-$ git status
-$ git add .
-$ git commit
+
+$ git branch -d contact-form
+
 ```
-# ![git-init](imges/03.png)
-
-# ![git-status](imges/04.png)
-
-# ![git-add](imges/05.png)
-
-# ![git-commit](imges/06.png)
-
-Our local repository files are commited and now its time to push into remote repository
-
-# ![git-local](imges/07.png)
-
-To push your code to remote repository, first you have to create the empty reposity on your github account
-
-### Step 04 - Create Empty Repo on your Github Account
- 
- Got your github accunt profile and create new repository
-
- # ![git-local](imges/10.png)
-
- # ![git-local](imges/11.png)
-
-
-### Step 05 - Push Local Repo to Remote Repo
-
-Now its time to push your local repository to your remote repository means your Github account
-
- # ![git-local](imges/12.png)
-
- # ![git-local](imges/13.png)
-
- # ![git-local](imges/14.png)
-
- # ![git-local](imges/15.png)
-
-
-As you see all local repository files/folders are now push to remote repository
-
-
- # ![git-local](imges/16.png)
 
