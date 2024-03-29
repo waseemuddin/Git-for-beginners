@@ -8,7 +8,7 @@ Please follow the below links for more updates and Projects
 
 # GIT Lab 02 - How to Create and Manage Git Branches
 
-In this lab we will look at How to pull our local repo/prject to remote repository means github account
+In this lab-02 we will look at the Git Brnach and how to create git branch
 
 
 <img src="imges/diagram.png" alt="Github Diagram" width="500" height="500">
