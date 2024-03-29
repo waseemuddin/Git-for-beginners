@@ -47,11 +47,7 @@ $ git checkout main
 $ git add .
 $ git commit -m "Fixed critical bug"
 
-
 ```
-<img src="imges/diagram.png" alt="Github Diagram" width="500" height="500">
-
-# ![git-status](imges/01.png)
 
 8- Merging Branches: Once the bug is fixed and the contact form feature is complete, you merge the "contact-form" branch into the main branch.
 
