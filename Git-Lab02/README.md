@@ -21,8 +21,7 @@ Below is the explanation how Git-Brach Works
 
 **Step # 01 - Main Branch (Master/Branch):**  Your main branch, often called "master" or "main", represents the stable version of your website that's ready to be published. It contains all the  upto date features and bug fixes means final and updated copy.
 <br>
-
-<br><br><br><br>
+<br>
 
 **Step # 02- Creating a New Branch:** Let's say you want to add a new feature to your website, like a contact us form and you need to create a new branch called "contact-us-form".
 
@@ -33,9 +32,7 @@ $ git checkout -b contact-us-form
 ```
 **Step # 03 - Making Changes:** On the "contact-us-form" branch, you work on adding the contact us form features to your website. You have to create the files like PHP, HTML, CSS, and JavaScript files for the form.
 <br>
-
-
-
+<br>
 
 **Step # 04 - Committing Changes:** Once you're done, you commit your changes to the "contact-us-form" branch.
 
@@ -46,7 +43,7 @@ $ git commit -m "Added contact form feature"
 $ git branch
 
 ```
-
+<br>
 
 **Step # 05 - Switching Between Branches:** Now, let's say your team needs you to fix a critical bug on the main website. You switch back to the main branch to address it.
 
@@ -56,12 +53,11 @@ $ git checkout main or git checkout master
 $ git branch
 
 ```
-
-
+<br>
 **Step # 06 - Making Changes:** On the main/master branch, you fix the bug by editing the affected files.
 
-
-
+<br>
+<br>
 
 **Step # 07 - Committing Changes:** After fixing the bug, you commit your changes to the main/master branch.
 
@@ -72,6 +68,7 @@ $ git commit -m "Fixed critical bug"
 $ git branch
 
 ```
+<br>
 
 **Step # 08 - Merging Branches:** Once the bug is fixed and the contact us form feature is complete, Now you need to merge the "contact-us-form" branch into the main or master branch.
 
@@ -82,7 +79,7 @@ $ git checkout main
 $ git merge contact-us-form
 
 ```
-
+<br>
 
 **Step # 09 - Deleting a Branch:** After merging, you can delete the "contact-us-form" branch. (Its user choise)
 
