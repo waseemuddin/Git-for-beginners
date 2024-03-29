@@ -22,7 +22,7 @@ Below is the explanation how Git-Brach Works
 **Step # 01 - Main Branch (Master/Branch):**  Your main branch, often called "master" or "main", represents the stable version of your website that's ready to be published. It contains all the  upto date features and bug fixes means final and updated copy.
 <br>
 
-<br><br><br>
+<br><br><br><br>
 
 **Step # 02- Creating a New Branch:** Let's say you want to add a new feature to your website, like a contact us form and you need to create a new branch called "contact-us-form".
 
