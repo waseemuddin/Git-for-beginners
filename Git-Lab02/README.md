@@ -10,7 +10,7 @@ Please follow the below links for more updates and Projects
 
 In this lab-02 we will look at the Git Brnach and how to create git branch and manage branches
 
-# ![git-status](src/01.png)
+# ![git-status](src/gitbranch.png)
 
 
 ### Example - Consider as real case project
