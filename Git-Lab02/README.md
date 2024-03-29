@@ -10,6 +10,8 @@ Please follow the below links for more updates and Projects
 
 In this lab-02 we will look at the Git Brnach and how to create git branch and manage branches
 
+Below is the explanation how Git-Brach Works
+
 # ![gitbranch](src/gitbranch.png)
 
 
@@ -17,52 +19,57 @@ In this lab-02 we will look at the Git Brnach and how to create git branch and m
 
 Let's consider a real-world project example: building a website. Imagine you and your team are working on a website project, and you decide to use Git to manage your code.
 
-1- **Main Branch (Master/Branch):**  Your main branch, often called "master" or "main", represents the stable version of your website that's ready to be published. It contains all the finished features and bug fixes.
+Step # 01 - **Main Branch (Master/Branch):**  Your main branch, often called "master" or "main", represents the stable version of your website that's ready to be published. It contains all the  upto date features and bug fixes means final and updated copy.
 
-2- Creating a New Branch: Let's say you want to add a new feature to your website, like a contact form. You create a new branch called "contact-form".
+Step # 02- **Creating a New Branch:** Let's say you want to add a new feature to your website, like a contact us form and you need to create a new branch called "contact-us-form".
 
 ``` shell
 
-$ git checkout -b contact-form
+$ git checkout -b contact-us-form
 
 ```
-3- Making Changes: On the "contact-form" branch, you work on adding the contact form feature to your website. You create HTML, CSS, and JavaScript files for the form.
+Step # 03 - **Making Changes:** On the "contact-us-form" branch, you work on adding the contact us form features to your website. You have to create the files like PHP, HTML, CSS, and JavaScript files for the form.
 
-4- Committing Changes: Once you're done, you commit your changes to the "contact-form" branch.
+Step # 04 - **Committing Changes:** Once you're done, you commit your changes to the "contact-us-form" branch.
 
 ``` shell
+$ git status
 $ git add .
 $ git commit -m "Added contact form feature"
+$ git branch
 
 ```
 
-5- Switching Between Branches: Now, let's say your team needs you to fix a critical bug on the main website. You switch back to the main branch to address it.
+Step # 05 - **Switching Between Branches:** Now, let's say your team needs you to fix a critical bug on the main website. You switch back to the main branch to address it.
 
 ``` shell
 
-$ git checkout main
+$ git checkout main or git checkout master
+$ git branch
 
 ```
-6- Making Changes: On the main branch, you fix the bug by editing the affected files.
+Step # 06 - **Making Changes:** On the main/master branch, you fix the bug by editing the affected files.
 
-7- Committing Changes: After fixing the bug, you commit your changes to the main branch.
+Step # 07 - **Committing Changes:** After fixing the bug, you commit your changes to the main/master branch.
 
 ``` shell
-
+$ git staus
 $ git add .
 $ git commit -m "Fixed critical bug"
+$ git branch
 
 ```
 
-8- Merging Branches: Once the bug is fixed and the contact form feature is complete, you merge the "contact-form" branch into the main branch.
+Step # 08 - **Merging Branches:** Once the bug is fixed and the contact us form feature is complete, Now you need to merge the "contact-us-form" branch into the main or master branch.
 
 ``` shell
 
+$ git status
 $ git checkout main
-$ git merge contact-form
+$ git merge contact-us-form
 
 ```
-9- Deleting a Branch: After merging, you can delete the "contact-form" branch.
+Step # 09 - **Deleting a Branch:** After merging, you can delete the "contact-us-form" branch. (Its user choise)
 
 ``` shell
 
@@ -70,3 +77,4 @@ $ git branch -d contact-form
 
 ```
 
+*******************THATS IT********************
