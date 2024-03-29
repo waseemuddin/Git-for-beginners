@@ -9,7 +9,7 @@ Please follow the below links for more updates and Projects
 # GIT Lab 02 - How to Create and Manage Git Branches
 
 In this lab-02 we will look at the Git Brnach and how to create git branch
-
+Now let see
 
 <img src="imges/diagram.png" alt="Github Diagram" width="500" height="500">
 
