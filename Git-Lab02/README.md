@@ -20,6 +20,8 @@ Below is the explanation how Git-Brach Works
 **Let's consider a real-world project example: building a website. Imagine you and your team are working on a website project, and you decide to use Git to manage your code.**
 
 **Step # 01 - Main Branch (Master/Branch):**  Your main branch, often called "master" or "main", represents the stable version of your website that's ready to be published. It contains all the  upto date features and bug fixes means final and updated copy.
+<br>
+
 
 
 **Step # 02- Creating a New Branch:** Let's say you want to add a new feature to your website, like a contact us form and you need to create a new branch called "contact-us-form".
@@ -30,6 +32,8 @@ $ git checkout -b contact-us-form
 
 ```
 **Step # 03 - Making Changes:** On the "contact-us-form" branch, you work on adding the contact us form features to your website. You have to create the files like PHP, HTML, CSS, and JavaScript files for the form.
+<br>
+
 
 
 
@@ -43,6 +47,7 @@ $ git branch
 
 ```
 
+
 **Step # 05 - Switching Between Branches:** Now, let's say your team needs you to fix a critical bug on the main website. You switch back to the main branch to address it.
 
 ``` shell
@@ -51,7 +56,12 @@ $ git checkout main or git checkout master
 $ git branch
 
 ```
+
+
 **Step # 06 - Making Changes:** On the main/master branch, you fix the bug by editing the affected files.
+
+
+
 
 **Step # 07 - Committing Changes:** After fixing the bug, you commit your changes to the main/master branch.
 
@@ -72,6 +82,8 @@ $ git checkout main
 $ git merge contact-us-form
 
 ```
+
+
 **Step # 09 - Deleting a Branch:** After merging, you can delete the "contact-us-form" branch. (Its user choise)
 
 ``` shell
