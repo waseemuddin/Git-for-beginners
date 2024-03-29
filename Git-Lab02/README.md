@@ -6,7 +6,7 @@ Please follow the below links for more updates and Projects
 💾 <a href="https://www.youtube.com/@waseeemuddin" target="_blank">Follow my YouTube channel</a>
 
 
-# GIT Lab 02 - How to Create and Manage Git Branches
+##  GIT Lab 02 - How to Create and Manage Git Branches
 
 In this lab-02 we will look at the Git Brnach and how to create git branch and manage branches
 
