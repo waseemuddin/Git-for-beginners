@@ -10,11 +10,14 @@ Please follow the below links for more updates and Projects
 
 In this lab-02 we will look at the Git Brnach and how to create git branch and manage branches
 
+# ![git-status](src/01.png)
+
+
 ### Example - Consider as real case project
 
 Let's consider a real-world project example: building a website. Imagine you and your team are working on a website project, and you decide to use Git to manage your code.
 
-1- Main Branch (Master/Branch): Your main branch, often called "master" or "main", represents the stable version of your website that's ready to be published. It contains all the finished features and bug fixes.
+1- **Main Branch (Master/Branch):**  Your main branch, often called "master" or "main", represents the stable version of your website that's ready to be published. It contains all the finished features and bug fixes.
 
 2- Creating a New Branch: Let's say you want to add a new feature to your website, like a contact form. You create a new branch called "contact-form".
 
