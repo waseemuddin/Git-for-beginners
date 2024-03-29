@@ -3,12 +3,14 @@ Please follow the below links for more updates and Projects
 
 💾 <a href="https://shaikhwaseem.com" target="_blank">shahikhwaseem.com</a> <br>
 
-💾 <a href="https://www.youtube.com/@waseeemuddin" target="_blank">Youtube Link</a>
+💾 <a href="https://www.youtube.com/@waseeemuddin" target="_blank">Follow my YouTube channel</a>
 
 
 # GIT Lab 02 - How to Create and Manage Git Branches
 
-In this lab-02 we will look at the Git Brnach and how to create git branch and manager branches
+In this lab-02 we will look at the Git Brnach and how to create git branch and manage branches
+
+### Example - Consider as real case project
 
 Let's consider a real-world project example: building a website. Imagine you and your team are working on a website project, and you decide to use Git to manage your code.
 
