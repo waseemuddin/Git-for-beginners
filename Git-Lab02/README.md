@@ -1,9 +1,11 @@
+# Day-02 - Git Branches
 
 Please follow the below links for more updates and Projects
 
 💾 <a href="https://shaikhwaseem.com" target="_blank">shahikhwaseem.com</a> <br>
 
 💾 <a href="https://www.youtube.com/@waseeemuddin" target="_blank">Follow my YouTube channel</a>
+
 
 
 ##  GIT Lab 02 - How to Create and Manage Git Branches
