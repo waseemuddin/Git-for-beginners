@@ -14,7 +14,7 @@ In this lab we will look at How to pull our local repo/prject to remote reposito
 <img src="imges/diagram.png" alt="Github Diagram" width="500" height="500">
 
 # ![git-status](imges/01.png)
-# ![git-status](//imges/01.png)
+# ![git-status](../imges/01.png)
 
 
 ### Step 01 - Make Directory/Folder on your local system windows or ubuntu
