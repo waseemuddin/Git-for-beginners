@@ -8,8 +8,9 @@ Please follow the below links for more updates and Projects
 
 # GIT Lab 01 - How to Push Project folder to Remote Repository
 
-In this lab we will look at How to pull our local repo/prject to remote repository means github account
+GitHub is a popular platform for hosting and collaborating on code repositories. Whether you are new to coding or an experienced developer, knowing how to create a repository and push your code to GitHub is a crucial skill.
 
+In this step-by-step Lab, I will guide you through the process of creating your first GitHub repository and pushing your code to GitHub Account. By the end of this Lab, you will have the necessary skills to get started with version control, code hosting, and collaboration on GitHub. I will try my best to cover topics such as GitHub basics, repository creation, and pushing code to GitHub.
 
 <img src="../imges/diagram.png" alt="Github Diagram" width="500" height="500">
 
