@@ -6,7 +6,7 @@ Please follow the below links for more updates and Projects
 💾 <a href="https://www.youtube.com/@waseeemuddin" target="_blank">Youtube Link</a>
 
 
-# GIT Lab 01 - How to Push Project folder to Remote Repository
+# Create Your First Git Repository And Push to GitHub Account
 
 GitHub is a popular platform for hosting and collaborating on code repositories. Whether you are new to coding or an experienced developer, knowing how to create a repository and push your code to GitHub is a crucial skill.
 
