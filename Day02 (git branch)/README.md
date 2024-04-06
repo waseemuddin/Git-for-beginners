@@ -14,7 +14,7 @@ Below is the explanation how Git-Brach Works
 # ![gitbranch](src/gitbranch.png)
 
 
-### Example - Consider as real case project
+### Example - Consider as a real case project
 
 **Let's consider a real-world project example: building a website. Imagine you and your team are working on a website project, and you decide to use Git to manage your code.**
 
@@ -29,7 +29,7 @@ Below is the explanation how Git-Brach Works
 $ git checkout -b contact-us-form
 
 ```
-**Step # 03 - Making Changes:** On the "contact-us-form" branch, you work on adding the contact us form features to your website. You have to create the files like PHP, HTML, CSS, and JavaScript files for the form.
+**Step # 03 - Making Changes:** On the "contact-us-form" branch, you work on adding the contact-us form features to your website. You have to create the files like PHP, HTML, CSS, and JavaScript files for the form.
 <br>
 <br>
 
