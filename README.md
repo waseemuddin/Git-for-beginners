@@ -61,7 +61,7 @@ To push your code to remote repository, first you have to create the empty repos
 
 ### Step 04 - Create Empty Repo on your Github Account
  
- Got your github accunt profile and create new repository
+Got your github accunt profile and create new repository
 
  # ![git-local](imges/10.png)
 
