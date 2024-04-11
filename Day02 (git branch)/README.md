@@ -8,8 +8,8 @@ Please follow the below links for more updates and Projects
 
 ##  GIT Lab 02 - How to Create and Manage Git Branches
 
-In this lab we will look at the Git Brnach and how to create git branches and manage them
-Below is the explanation how Git-Brach Works
+In this lab, we will look at the Git Brnach and how to create Git branches and manage them
+Below is the explanation of how Git-Brach Works
 
 # ![gitbranch](src/gitbranch.png)
 
