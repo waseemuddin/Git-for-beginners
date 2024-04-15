@@ -7,7 +7,7 @@ Please follow the below links for more updates and Projects
 
 # GIT Lab 01 - How to Push Project folder to Remote Repository
 
-In this lab we will look at How to pull our local repo/prject to remote repository means github account
+In this lab we will look at How to pull our local repo/prject to remote repository means Github account
 
 
 <img src="imges/diagram.png" alt="Github Diagram" width="500" height="500">
@@ -15,7 +15,7 @@ In this lab we will look at How to pull our local repo/prject to remote reposito
 # ![git-status](imges/01.png)
 
 
-### Step 01 - Make Directory/Folder on your local system windows or ubuntu
+### Step 01 - Make a Directory/Folder on your local system windows or Ubuntu
 
 ``` shell
 $ mkdir Git-for-begineers
