@@ -18,8 +18,8 @@ In this lab we will look at How to pull our local repo/prject to remote reposito
 ### Step 01 - Make a Directory/Folder on your local system windows or Ubuntu
 
 ``` shell
-$ mkdir Git-for-begineers
-$ cd Git-for-begineers
+$ mkdir Git-for-beginners
+$ cd Git-for-beginners
 $ git status
 ```
 # ![git-status](imges/02.png)
