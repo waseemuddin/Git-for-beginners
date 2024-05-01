@@ -24,7 +24,7 @@ $ git status
 ```
 # ![git-status](imges/02.png)
 
-### Step 02 - create some files into the git local directory/folder
+### Step 02 - create some files in the git local directory/folder
 
 ``` shell
 $ mkdir imges 
@@ -61,7 +61,7 @@ To push your code to remote repository, first you have to create the empty repos
 
 ### Step 04 - Create Empty Repo on your Github Account
  
-Got your github accunt profile and create new repository
+Got your GitHub accunt profile and create a new repository
 
  # ![git-local](imges/10.png)
 
