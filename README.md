@@ -7,7 +7,7 @@ Please follow the below links for more updates and Projects.
 
 # GIT Lab 01 - How to Push Project folder to Remote Repository
 
-In this lab we will look at How to pull our local repo/prject to remote repository means Github account
+In this lab we will look at How to pull our local repo/project to remote repository means the Github account
 
 
 <img src="imges/diagram.png" alt="Github Diagram" width="500" height="500">
