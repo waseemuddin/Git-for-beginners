@@ -1,5 +1,5 @@
 
-Please follow the below links for more updates and Projects.
+Please follow the below links for more updates and Projects..
 
 💾 <a href="https://shaikhwaseem.com" target="_blank">shahikhwaseem.com</a> <br>
 
